@@ -1,0 +1,5 @@
+const names=require('./lec4')
+const sayhi=require('./lec5')
+require('./lec6')
+// sayhi(names.Amount2)
+// sayhi('Amit')
